@@ -1,0 +1,9 @@
+com\example\demo\repo\UserRepo.class
+com\example\demo\DemoApplication.class
+com\example\demo\controller\DemoController.class
+com\example\demo\entity\User.class
+com\example\demo\service\UserServiceImpl.class
+com\example\demo\exception\GenericException.class
+com\example\demo\service\UserService.class
+com\example\demo\dao\UserDAO.class
+com\example\demo\dao\UserDAOImpl.class
